@@ -4,8 +4,3 @@ in this folder , to specified  destination/path {file destination written in 1.A
 (during linking) and 2.img src } .
 
 You can change file path at your convenience written inside <A> tag.
-
-If you need screenshots , refer to Project.docx and for codes open .html file using
- notepad.
-
-Project Docx does not contains code for all pages. 

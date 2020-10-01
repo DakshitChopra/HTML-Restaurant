@@ -1,0 +1,11 @@
+If images are not copied on same path in another system as specified in "img src" 
+and "A" tag, then image will not be displayed . So copy images that are included 
+in this folder , to specified  destination/path {file destination written in 1.A tag
+(during linking) and 2.img src } .
+
+You can change file path at your convenience written inside <A> tag.
+
+If you need screenshots , refer to Project.docx and for codes open .html file using
+ notepad.
+
+Project Docx does not contains code for all pages. 
